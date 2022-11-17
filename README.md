@@ -1,6 +1,6 @@
-# SQL-Data-Analysis-Projects
+Data-Analysis-&-Visualization-Projects
 
-Here is a collection of the projects I've completed that relate to data sciences and machine learning.
+Here is a collection of the projects I've completed that relate to data analysis and data visualization.
 
 <details>
 <summary>Technologies Utilized</summary>
