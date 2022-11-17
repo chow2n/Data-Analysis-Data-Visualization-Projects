@@ -6,7 +6,6 @@ Here is a collection of the projects I've completed that relate to data sciences
 <summary>Technologies Utilized</summary>
 - MS SQL
 - PostgreSQL
-- Scikit-Learn
 </details>
 
 ## Projects
