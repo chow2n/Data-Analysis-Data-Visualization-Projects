@@ -1,4 +1,4 @@
-Data-Analysis-&-Visualization-Projects
+# Data-Analysis-&-Visualization-Projects
 
 Here is a collection of the projects I've completed that relate to data analysis and data visualization.
 
@@ -6,6 +6,7 @@ Here is a collection of the projects I've completed that relate to data analysis
 <summary>Technologies Utilized</summary>
 - MS SQL
 - PostgreSQL
+- Tableau
 </details>
 
 ## Projects
