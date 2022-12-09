@@ -4,7 +4,7 @@ Here is a collection of the projects I've completed that relate to data analysis
 
 <details>
 <summary>Technologies Utilized</summary>
-MS SQL, SSMS, PostgreSQL, pgAdmin, Tableau
+MS SQL | SSMS | PostgreSQL | pgAdmin | Tableau
 </details>
 
 ## Projects
