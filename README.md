@@ -10,11 +10,12 @@ MS SQL | SSMS | PostgreSQL | pgAdmin | Tableau
 ## Projects
 
 ### [AdventureWorks SQL Analysis in SSMS](https://github.com/chow2n/AdventureWorks-SQL-Analysis "AdventureWorksAnalysis")
-- Restored AdventureWorks database in SQL Server Management Studio with SQL Server 2022
+- Restored AdventureWorks database in SQL Server 2022 with SQL Server Management Studio
 - Queried database of over 4 million rows with complex techniques including Group By, CTE Functions, and Windows Functions
 - Analyzed schema of over 50 tables to fully understand database and make analytical decisions about data
 
 ### [Olympic Athlete History Analysis in PostgreSQL](https://github.com/chow2n/Olympic-History-SQL-Analysis "OlympicPostgreSQL")
+- Created table structures and imported data in PostgreSQL with pgAdmin
 - Analyzed dataset of over 250,000 rows using elaborate SQL queries
 - Utilized complex SQL techniques like CTE Functions (with), Window Functions (rank, dense_rank), and Crosstab Function (Pivot Table)
 
