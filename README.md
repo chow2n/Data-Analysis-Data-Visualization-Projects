@@ -16,7 +16,7 @@ MS SQL | SSMS | PostgreSQL | pgAdmin | Tableau
 
 ### [Olympic Athlete History Analysis in PostgreSQL](https://github.com/chow2n/Olympic-History-SQL-Analysis "OlympicPostgreSQL")
 - Analyzed dataset of over 250,000 rows using elaborate SQL queries
-- Utilized complex SQL techniques like CTE Functions (with), Window Functions (rank, dense_rank), and Crosstab (Pivot Table)
+- Utilized complex SQL techniques like CTE Functions (with), Window Functions (rank, dense_rank), and Crosstab Function (Pivot Table)
 
 ### [SQL Covid Vaccination Data Exploration in SSMS](https://github.com/chow2n/SQL-CovidDataExploration "CovidDataExploration")
 - Generated complex queries to explore and compare Covid death and vaccination data
